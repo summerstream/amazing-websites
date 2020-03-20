@@ -7,3 +7,5 @@ collection of some amazing websites, especially for promoting work efficiency
   - https://c4model.com/#CoreDiagrams
   - https://structurizr.com/share/36141/diagrams#SystemContext
   
+- Specifications
+  - https://www.ecma-international.org/ecma-262/8.0/index.html

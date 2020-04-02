@@ -9,3 +9,6 @@ collection of some amazing websites, especially for promoting work efficiency
   
 - Specifications
   - https://www.ecma-international.org/ecma-262/8.0/index.html
+
+- Serverless
+  - serverless db https://fauna.com/
